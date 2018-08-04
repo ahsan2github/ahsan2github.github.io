@@ -11,7 +11,8 @@ This pdf file describes a hypothetical problem of choosing a DSLR camera based u
 
 ```
 Once you have been fixated on purchasing a full frame DSLR camera, you immediately take a survey of the available options and 
-would probably come up with a list of Canon, Nikon, Sony, Pentax cameras. Well, this just is the beginning of the complexity. Most cameras are very similar in specifications but not exactly the same. What option may be useful to me may not be important for the  other buyer .... 
+would probably come up with a list of Canon, Nikon, Sony, Pentax cameras. Well, this just is the beginning of the complexity. 
+Most cameras are very similar in specifications but not exactly the same. What option may be useful to me may not be important for the  other buyer .... 
 ```
 
 ##### [bw_method_weight_scipy.py](https://github.com/ahsan2github/bw_method/blob/master/bw_method_weight_scipy.py)
@@ -28,4 +29,17 @@ The driver python script that calls bw_method_weight.py function to calculate th
 __________________________________________________________________________________________________________________
 
 ## Repository: [dash-app-tseries](https://github.com/ahsan2github/dash-app-tseries)
-This repository contains 
+This repository contains the source files of a Recurrent Neural Network and Autoregressive Integrating Moving Average based stock price prediction program. This program utilizes Plotly dash framework to build a web interface. Plotly dash is utilizes Python Flask framework to render services. The live program is hosted on heroku server and it can pulls data from Alphavantage server for the analysis in real time. 
+
+## Repository: [nn_on_iris_dataset](https://github.com/ahsan2github/nn_on_iris_dataset)
+ A Tensorflow based Neural Network was built to for the classification of species within the IRIS data set that comes with Python-Seaborn visualization package. The single python-notebook is selfcontained and can be downloaded and run easily. 
+ 
+## Repository: [titanic](https://github.com/ahsan2github/titanic)
+A detailed tutorial on Naive Bayes analysis utlizing the widely known titaic data set available in kaggle.com. Repository is self contained . It includes required data and python-notebook describing Naive Bayes Model. 
+
+## Repository: [datavis](https://github.com/ahsan2github/datavis)
+Repository contains the source code and data used to make a dashboard in online-plotly framework. ORCHID data set contains researchers' country of origin and from where they obtained their PhD. A simple dashboard was presented to show in the worldmap the concentration of PhD awarded. It gives a clear idea about the strength and number of PhD programs throughout the world and also, a breakdown was shown continentwise. 
+
+##Repository: [TurbulentEnergyAnalsyis](https://github.com/ahsan2github/TurbulentEnergyAnalsyis)  
+
+This repository contains all the matlab soure files used in the analysis of turbulent kinetic energy exchange among different length scales. This was a part of the dissertation research. A detailed account of the analysis can be found in the dissertation. The basic idea was to take a wavelet transformation of the Navier-Stokes equations and analyze the energy exchange. Because of the wavelet decomposition it is possible to quantift sacel-dependent  energy transfer among active length scales.
